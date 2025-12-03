@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Co-Leading the Open Source Program Office @Merceds-Benz Tech Innovation<br>🚀 Improving Developer Productivity @Mercedes-Benz<br>👨‍💻 Building products, crafting large scale Developer Communications and sometimes coding<br>👨🏻‍🚒 Fighting Fires in Stuttgart
+💻 Leading the Open Source Program Office @Merceds-Benz Tech Innovation<br>🚀 Improving Developer Productivity @Mercedes-Benz<br>👨‍💻 Building products, crafting large scale Developer Communications and sometimes coding<br>👨🏻‍🚒 Fighting Fires in Stuttgart
 
 
 ## 🌐 Socials:
